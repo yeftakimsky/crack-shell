@@ -1,5 +1,6 @@
 # crack-shell
-This is my first time doing this
+This is my first time doing this. Why I named it Crack Shell? Because it feels like I'm learning something new from the scratch.
+
 ## Tools Installed
 
 1. Cursor IDE
@@ -46,10 +47,28 @@ I watched the Youtube and see how easy to integrate Claude Code into Cursor just
 After that, I went to Claude Code Docs, and found the "Install The Extension" for Cursor. 
 When I clicked and directed into Cursor app on my desktop, it shows Error message: Cannot read properties of undefined (reading 'activeEditor')
 
-### Current Status
+### Current Status:
 The issue is still under investigation but Basic Installation is completed successfully. Perharp because I don't subscribe for Claude.
 
 ### Issue 3: Open Repository on Cursor
 I watched on Youtube on how to create repository, and I'm pretty sure can do that. But the issue was on how do I clone the Repository on Github into Cursor.
 
 ### Solution:
+- Connect Github account with Cursor.
+- Download git.
+- Create Repository - Watched on Youtube "how to create a github repository".
+- Click "Code".
+- Copy URL.
+- Open the computer and go to CMD.
+- Type: git clone (paste the link).
+- After the folder is created, go to Cursor and click "Clone Repo".
+- Choose the folder you created.
+- Click "Select For Repository Destination"
+
+### Issue 4: How to create README.md
+I didn't know how to use this before, what should I type in.
+
+### Solution:
+- Ask chatgpt about how to create as sample readme.
+- Look for any repetitive pattern on something that it made.
+- Applied it on this Readme.
